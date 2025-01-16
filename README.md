@@ -12,7 +12,8 @@ A fuller story might be held in how theses circuits develop. Like tracking the d
 1. Create anaconda environment
 ```  
 conda env create -f environment.yml
-conda activate synaptech_env
+conda activate -n netvolve_env
+
 ```
 
 #### 2. Install dependencies
